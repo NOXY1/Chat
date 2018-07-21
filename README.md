@@ -6,3 +6,6 @@ npm install
 
 #run build:
 npm run build
+
+#run server:
+node index.js
